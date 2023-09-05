@@ -1,4 +1,4 @@
-# Tinyme
+# Conversation Platform - Tinyme
 
 Open source web chat with a twist
 
